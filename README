@@ -1,0 +1,9 @@
+Just a personal page I had to create in one of my Uni courses.
+
+It is a "command line" interface with some personal details about me, and some really basic commands (the "parser" itself is pretty naive and simple).
+
+The final result is right here:
+
+https://www.cs.bgu.ac.il/~morkad/
+
+(type "help" for help :) )
